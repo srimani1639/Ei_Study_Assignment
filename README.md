@@ -17,11 +17,11 @@ Each example is implemented with modular classes, adhering to object-oriented pr
 ## 2. Virtual Classroom Manager
 This is a console-based backend application designed for managing virtual classrooms, students, and assignments for an EdTech platform. The program follows a clean architecture approach and emphasizes code quality with a focus on object-oriented design, SOLID principles, and the Singleton and Factory patterns.
 
-Key Features:
+### Key Features:
 Classroom Management: Add, list, and manage virtual classrooms.
 Student Management: Enroll students in classrooms and list all students per classroom.
 Assignment Management: Schedule assignments for classrooms and allow students to submit them.
-Console Commands:
+### Console Commands:
 Add Classroom: add_classroom [ClassName]
 Add Student: add_student [StudentID] [ClassName]
 Schedule Assignment: schedule_assignment [ClassName] [AssignmentDetails]
