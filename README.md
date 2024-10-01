@@ -1,5 +1,5 @@
 # Design Pattern Examples and Virtual Classroom Manager
-1. Design Pattern Examples
+## 1. Design Pattern Examples
 This project demonstrates six different software design patterns with real-world use cases. It covers Behavioral, Creational, and Structural design patterns, each implemented with clear, practical examples. These examples provide a deeper understanding of how to apply design patterns to real-world problems, promoting better software design and adherence to the SOLID principles.
 
 Patterns Implemented:
@@ -14,7 +14,7 @@ Adapter Pattern: A video player system that adapts different formats (MP4, VLC) 
 Facade Pattern: A home automation system where users can control lights and air conditioners via a simplified interface.
 Each example is implemented with modular classes, adhering to object-oriented principles.
 
-2. Virtual Classroom Manager
+## 2. Virtual Classroom Manager
 This is a console-based backend application designed for managing virtual classrooms, students, and assignments for an EdTech platform. The program follows a clean architecture approach and emphasizes code quality with a focus on object-oriented design, SOLID principles, and the Singleton and Factory patterns.
 
 Key Features:
